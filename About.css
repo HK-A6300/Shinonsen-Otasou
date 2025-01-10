@@ -410,7 +410,7 @@
 
 .u-section-4 .u-image-2 {
   min-height: 305px;
-  background-image: url("images/photolibrary-15-1000x667.jpg");
+  background-image: url("images/photolibrary-15.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 40px;
@@ -987,13 +987,14 @@
 
 .u-section-7 .u-image-1 {
   min-height: 610px;
-  background-image: url("images/photolibrary131-1000x667.jpg");
+  background-image: url("images/photolibrary131.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 40px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  background-size: cover;
 }
 
 .u-section-7 .u-container-layout-1 {
@@ -1002,7 +1003,7 @@
 
 .u-section-7 .u-image-2 {
   min-height: 305px;
-  background-image: url("images/photolibrary-52-1000x667.jpg");
+  background-image: url("images/photolibrary-52.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 40px;

@@ -319,7 +319,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 450px;
-  background-image: url("images/photolibrary-84-1000x667.jpg");
+  background-image: url("images/photolibrary-84.jpg");
   background-position: 50% 50%;
   background-size: auto 115%;
   background-repeat: no-repeat;
@@ -336,8 +336,8 @@
 
 .u-section-3 .u-image-2 {
   min-height: 450px;
-  background-image: url("images/photolibrary-83-1000x667.jpg");
-  background-position: 50% 82.99%;
+  background-image: url("images/photolibrary-83.jpg");
+  background-position: 50% 50%;
   background-size: cover;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 40px;
@@ -551,7 +551,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 450px;
-  background-image: url("images/photolibrary-84-1000x667.jpg");
+  background-image: url("images/photolibrary-84.jpg");
   background-position: 50% 50%;
   background-size: auto 115%;
   background-repeat: no-repeat;
