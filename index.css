@@ -1,10 +1,10 @@
 @font-face {
   font-family: "35820";
-  src: url(./fonts/35820.ttf);
+  src: url(./fonts/35820.ttf) format("truetype");
 }
 @font-face {
   font-family: "39496";
-  src: url(./fonts/39496.otf);
+  src: url(./fonts/39496.otf) format("opentype");
 }
 .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/2-2.webp');
