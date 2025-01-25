@@ -45365,7 +45365,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-block-1 {
-  margin: 0 auto 0 0;
+  width: 255px;
+  height: 135px;
+  margin: 11px auto 0 0;
 }
 
 .u-footer .u-text-1 {
@@ -45390,7 +45392,7 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 16px;
   width: 112px;
   min-width: 88px;
-  margin: 18px auto 0 0;
+  margin: 19px auto 0 0;
 }
 
 .u-footer .u-icon-1 {

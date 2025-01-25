@@ -291,11 +291,12 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1182px;
+    min-height: 847px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
     width: 340px;
+    margin-bottom: -1029px;
   }
 
   .u-section-2 .u-image-1 {
@@ -597,7 +598,7 @@
 
 .u-section-4 .u-image-2 {
   min-height: 450px;
-  background-image: url("images/photolibrary-83-1000x667.jpg");
+  background-image: url("images/photolibrary-83.jpg");
   background-position: 50% 82.99%;
   background-size: cover;
   --animation-custom_in-translate_x: 0px;
@@ -790,11 +791,11 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1268px;
+    min-height: 802px;
   }
 
   .u-section-4 .u-layout-wrap-1 {
-    margin-bottom: -613px;
+    margin-bottom: -1079px;
   }
 
   .u-section-4 .u-image-1 {
